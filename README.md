@@ -19,7 +19,7 @@
 
 1. **Клонируйте репозиторий**:
    ```bash
-   git clone https://github.com/ваш-аккаунт/lalafo-profile-tests.git
+   git clone https://github.com/swasws/lalafo-profile-tests
    cd lalafo-profile-tests
 Установите зависимости:
 npm install
